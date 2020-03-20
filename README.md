@@ -30,3 +30,9 @@ https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/developer-guide/us
 
 Arduino for LinkIt 7697<br>
 https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/environment-setup
+
+<div>TinyPlan97 - Q-ter CAT - Assembly Instruction 組裝教學</div>
+<div><a href="https://www.youtube.com/watch?v=uaIYs8eMsa8"><img src="https://img.youtube.com/vi/uaIYs8eMsa8/0.jpg"></a></div>
+
+<div>TinyPlan97 - Q-ter CAT - Calibration & Upload Program Instruction 程式校正與燒錄教學</div>
+<div><a href="https://www.youtube.com/watch?v=NKjet28NVa8"><img src="https://img.youtube.com/vi/NKjet28NVa8/0.jpg"></a></div>
